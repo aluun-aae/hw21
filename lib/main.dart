@@ -33,7 +33,7 @@ void main() {
                         spreadRadius: 2,
                       )
                       ],
-                      borderRadius: BorderRadius.circular(15)),
+                      borderRadius: BorderRadius.vertical(bottom: Radius.circular(20))),
                   child: newReg()),
               RichText(
                 text: TextSpan(
